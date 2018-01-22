@@ -20,7 +20,7 @@ Unit:(ms)
 |Official| GNU |  No | BDW | 1450| --|
 |Intel| GNU |  No | BDW | 220| --|
 |Intel| Intel |  No | BDW | 172| --|
-|Intel| Intel |  No | KNL | 262| --|
-|Intel| Intel |  No | SKX | 111| --|
+|Intel| Intel |  YES | KNL | 262| --|
+|Intel| Intel |  YES | SKX | 111| --|
 
 
