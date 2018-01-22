@@ -17,9 +17,9 @@ Unit:(ms)
 
 |PyTorch version|compiler |AVX512 support| CPU platform | result | speedUp |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-|Official| GNU |  No | BDW | 1450| --|
-|Intel| GNU |  No | BDW | 220| --|
-|Intel| Intel |  No | BDW | 172| --|
+|Official| GNU |  No | BDW | 1450| (reference)|
+|Intel| GNU |  No | BDW | 220| 6.59X |
+|Intel| Intel |  No | BDW | 172| 8.43X |
 |Intel| Intel |  YES | KNL | 262| --|
 |Intel| Intel |  YES | SKX | 111| --|
 
