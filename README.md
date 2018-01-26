@@ -10,7 +10,7 @@ Tested CPU：
 |SKX|Intel(R) Xeon(R) Platinum 8180 CPU|2|28|2.50GHz|
 
 ## Installation  
-Refer to [Intel version](https://github.com/intel/pytorch/tree/icc). It is important to warning you that the branch is __icc__.
+Refer to [Intel version](https://github.com/intel/pytorch/tree/icc). It is important to warn you that the branch is __icc__.
 
 ## Benchmarking data  
 Unit:(ms)
