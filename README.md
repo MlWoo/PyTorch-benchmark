@@ -5,7 +5,8 @@ Tested CPU：
 
 |Type|CPU Model|Sockets|Cores/Socket|Frequency|
 |---|---|---|---|---|
-|BDW|Intel(R) Xeon(R) CPU E5-2699 v4   |2|22|2.20GHz|
+|i7 |Intel(R) Core(TM) i7-5960X|1|8|3.00GHz|
+|BDW|Intel(R) Xeon(R) CPU E5-2699 v4   |2|22|2.20GHz|
 |KNL|Intel(R) Xeon Phi(TM) CPU 7250F   |1|68|1.40GHz|
 |SKX|Intel(R) Xeon(R) Platinum 8180 CPU|2|28|2.50GHz|
 
@@ -22,3 +23,4 @@ Unit:(ms)
 |Intel| Intel |  No | BDW | 172| 8.43X |
 |Intel| Intel |  YES | KNL | 262| --|
 |Intel| Intel |  YES | SKX | 111| --|
+|Intel| GNU| No |i7|460|--|
