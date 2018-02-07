@@ -14,7 +14,8 @@ Tested CPU：
 Refer to [Intel version](https://github.com/intel/pytorch/tree/icc). It is important to warn you that the branch is __icc__.
 
 ## Benchmarking data  
-Note: Part of optimization from Intel has been merged into offical version. The reference data is outdated.
+Note: Part of optimization from Intel has been merged into official version. The reference data is outdated.  
+
 Unit:(ms)
 
 |PyTorch version|compiler |AVX512 support| CPU platform | result | speedUp |
